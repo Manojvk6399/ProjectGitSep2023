@@ -10,5 +10,11 @@ public class ClassA {
 	private void method3() {
 		System.out.println(30);
 	}
+	private void add1() {
+		System.out.println(1);
+	}
+	private void add2() {
+		System.out.println(2);
+	}
 
 }
